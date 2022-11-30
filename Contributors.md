@@ -66,6 +66,7 @@
 - [Giovanni Palleschi](https://github.com/gpalleschi)
 - [Redsam](https://github.com/Redsamx)
 - [Jenny F](https://github.com/J-Ning)
+- [Vansh Dhelia@DevsocPI]
 - [Partha Maity](https://github.com/parthmty)
 - [Puneet](https://github.com/Puneetpotter)
 - [Shrankhla](https://github.com/shrankhla20)
